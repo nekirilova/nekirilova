@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**nekirilova/nekirilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7btPowCCTBY2wAgM/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Trust me. I'm the QA engineer :) 
@@ -53,12 +46,4 @@ I am a:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nekirilova&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekirilova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekirilova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
