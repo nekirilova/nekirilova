@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy.gif" style="margin-top: 30px;">
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 I am a: 
 - QA engineer from Ekaterinburg
 - mother of three daugthers
@@ -40,7 +40,7 @@ I am a:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>
@@ -59,7 +59,7 @@ I am a:
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nekirilova&theme=dark&background=000000)](https://git.io/streak-stats)
 
