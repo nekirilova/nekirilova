@@ -14,7 +14,7 @@
 </div>
 <p> </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" style="margin-top: 30px;">
+  <img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy.gif" style="margin-top: 30px;">
 </div>
 
 ### :woman_technologist: About Me :
@@ -23,6 +23,20 @@ I am a:
 - mother of three daugthers
 - poet
 - Doctor Who fan:)
+
+### My CV : 
+<div align="left" >
+  <a href="https://drive.google.com/file/d/1RmPzKE_EpKyQdkHOZgWQ8F1LSqwPKq3H/view?usp=sharing" style="margin-right:10px;"><img src="assets/cv-icon.png" alt="resume link" width="60" height="60"></a>  
+</div>
+
+---
+
+### My certificates : 
+<div align="left" >
+  <a href="https://drive.google.com/file/d/1Jk2pKLaShYhIAnZ2iAItj4s9IX1bL_IZ/view?usp=sharing" style="margin-right:10px;"><img src="assets/icons8-sql-64.png" alt="SQL certificate link" width="60" height="60"></a>  
+  <a href="https://drive.google.com/file/d/1V809_sI37tOD2wWXtuuD08B6O5w221Go/view?usp=sharing" style="margin-right:10px;"><img src="assets/java.png" alt="Java automation certificate link" width="60" height="60"></a> 
+  <a href="https://drive.google.com/file/d/1sZlaPSKey6PoAaa1SKQj0iQ2EiaHKdef/view?usp=sharing" style="margin-right:10px;"><img src="assets/management.png" alt="Test management certificate link" width="60" height="60"></a> 
+</div>
 
 ---
 
@@ -50,3 +64,5 @@ I am a:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nekirilova&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekirilova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/nekirilova/badges/large)](https://www.codewars.com/users/nekirilova)   
